@@ -9,7 +9,7 @@ This is Arduino code for the SecKC Speaker Name Badge.
 Currently, the code was designed and tested on: Node MCU 1.0 (ESP-12E Module) and 1.44 inch TFT SPI 128x128 LCD Display.
 
 Below is a list of items that should be upaded in order to make this badge your very own:
-* Within the main Arduino file, update *String handle = "PutHandleHere";*
+* Within the main Arduino file BadgeFinalTemplate.ino, update *String handle = "PutHandleHere";*
 * Within the bitmaps.h file, update *const uint16_t Avatar [] PROGMEM =* 
   
 # Custom Avatar
