@@ -33,4 +33,8 @@ Utilize an LCD Image Convertor to take your 128x128 image and convert it to 16-b
 
 Once display is hooked up to the board and the display has been successfully tested, open Arduino IDE and push the Arduino and bitmaps.h file to the board!
 
+# Next steps
+
 If there's any updates that want to be done, feel free to make this badge your own and customize it further! THis is just the first iteration of the SecKC Speaker Name Badge!
+
+Also, you can check out my blog to see the hardware side of this project: https://blog.geoda-security.com/2019/01/seckc-speaker-badge-name-badge-hack.html
